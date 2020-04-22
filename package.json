@@ -1,0 +1,20 @@
+{
+  "name": "beginnerStuff",
+  "version": "1.0.0",
+  "description": "This Repo contains a collection of beginner Javascript Projects, made to refresh skills and use the newest features available in ES6 & ES7 to maxamize efficency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thezman88/beginnerStuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thezman88/beginnerStuff/issues"
+  },
+  "homepage": "https://github.com/thezman88/beginnerStuff#readme"
+}
