@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: steelblue;
+}
+input{
+    height: 55px;
+    width: 100%;
+    font-size: 24px;
+}
+button{
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: steelblue;
+}
+p{
+    font-size: 24px;
+}
+.messageBox{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid #333;
+background-color: lightsteelblue;
+  color: #333333;
+  width: 900px;
+  height: 500px;
+  text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* border: 2px solid tomato; */
+}
+.box{
+    margin-top: 30px;
+    grid-column: 2/4;
+    grid-row: 1/1;
+    /* border: 2px solid red; */
+}
+.container2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* border: 2px solid tomato; */
+}
+.box2{
+    margin-top: 30px;
+    grid-column: 2/4;
+    grid-row: 1/1;
+
+    /* border: 2px solid red; */
+}
