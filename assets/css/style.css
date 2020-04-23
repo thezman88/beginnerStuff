@@ -16,6 +16,7 @@ label{
 button{
     font-size: large;
     border-radius: 8px;
+    
 }
 .calculator{
   position: fixed;
