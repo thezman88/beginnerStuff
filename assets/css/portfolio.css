@@ -18,7 +18,7 @@ a:hover{
 }
 
 #firstSection{
-    height: 580px;
+    height: 670px;
     background-color: #1fab89
 }
 #avatar{
@@ -44,11 +44,18 @@ a:hover{
 }
 #portfolio{
     color: #27496d;
-    font-size: 34px;
+    font-size: 44px;
 }
 #about{
-    color: #27496d;
+    color: white;
     font-size: 34px;
+}
+#contact{
+    font-size: 34px;
+    color: #27496d;
+}
+#contactContainer{
+    height: 600px;
 }
 #picture{
     max-width: 75%;
@@ -147,14 +154,25 @@ a:hover{
     background-color: #75daad;
 }
 
+#aboutSection{
+    background-color: #1fab89;
+    color: white;
+    height: 600px;
+
+}
+
+#finalContainer{
+    height: 255px;
+    color: white;
+    background-color: #27496d;
+
+}
+
+#footer{
+    background-color: #1b262c;
+}
 
 
 
-
-
-
-
-
-
-
+///////////////////////////////////////////////////////////////////////////////////////
 
