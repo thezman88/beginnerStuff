@@ -1,0 +1,160 @@
+*{
+    font-family: 'Arvo', serif;
+
+}
+nav{
+    font-family: 'Arvo', serif;
+    background-color: #27496d;
+}
+a{
+    color: white;
+}
+a:hover{
+    color:  #75daad;
+    text-decoration: none;
+}
+#zach{
+    font-size: 30px;
+}
+
+#firstSection{
+    height: 670px;
+    background-color: #1fab89
+}
+#avatar{
+    height: 230px;
+    width: 230px;
+}
+
+#nameHeadding{
+    font-size: 40px;
+    font-family: 'Arvo', serif;
+    color: white;
+
+}
+#star{
+    color: white;
+}
+#star-blue{
+    color:#27496d;
+}
+#tagLine{
+    color: white;
+    font-size: 24px;
+}
+#portfolio{
+    color: #27496d;
+    font-size: 34px;
+}
+#about{
+    color: #27496d;
+    font-size: 34px;
+}
+#picture{
+    max-width: 75%;
+    max-height: 75%%;
+    object-fit: contain;
+}
+
+#cash{
+    height: 300px;
+    object-fit: contain;
+    background-image: url(https://image.flaticon.com/icons/svg/1198/1198290.svg);
+    background-color: indianred;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+#cash:hover{
+    opacity: 0.5;
+    background-color: #75daad;
+}
+#pic{
+    height: 300px;
+    object-fit: contain;
+    background-image: url(https://image.flaticon.com/icons/svg/2797/2797937.svg);
+    background-color: #75daad;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+
+}
+#pic:hover{
+    opacity: 0.5;
+    background-color: #75daad;
+}
+#paint{
+    height: 300px;
+    object-fit: contain;
+    background-image: url(https://image.flaticon.com/icons/svg/2827/2827377.svg);
+    background-color: black;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+
+}
+#paint:hover{
+    opacity: 0.5;
+    background-color: #75daad;
+}
+#counter{
+    height: 300px;
+    object-fit: contain;
+    background-image: url(https://image.flaticon.com/icons/svg/2357/2357423.svg);
+    background-color: cadetblue;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+
+}
+#counter:hover{
+    opacity: 0.5;
+    background-color: #75daad;
+}
+#message{
+    height: 300px;
+    object-fit: contain;
+    background-image: url(https://image.flaticon.com/icons/svg/2832/2832689.svg);
+    background-color: royalblue;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+
+}
+#message:hover{
+    opacity: 0.5;
+    background-color: #75daad;
+}
+
+#quote{
+    height: 300px;
+    object-fit: contain;
+    background-image: url(https://image.flaticon.com/icons/svg/792/792148.svg);
+    background-color: tan;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+
+}
+#quote:hover{
+    opacity: 0.5;
+    background-color: #75daad;
+}
+
+
+
+
+
+
+
+
+
+
+
+
